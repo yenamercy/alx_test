@@ -1,2 +1,2 @@
-this is test alx document 
+this is test
 she also added new text
